@@ -8,3 +8,5 @@ end
 
 # solution
 
+robot_a = RobotA.new
+robot_a.dry_my_hands

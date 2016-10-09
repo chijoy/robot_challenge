@@ -10,4 +10,5 @@ class RobotB
 end
 
 # solution
-
+robot_b = RobotB.new
+robot_b.get_stock_price(YHOO)

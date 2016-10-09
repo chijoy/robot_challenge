@@ -7,4 +7,5 @@ class RobotC
 end
 
 # solution
-
+robot_c = RobotC.new
+robot_c

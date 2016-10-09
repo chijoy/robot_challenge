@@ -7,4 +7,5 @@ class RobotD
 end
 
 # solution
-
+robot_d = RobotD.new("Joy", "McCaffrey")
+robot_d

@@ -10,3 +10,5 @@ end
 
 # solution
 
+robot_f = CoolRobots::RobotF.new
+robot_f.laugh
